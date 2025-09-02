@@ -13,7 +13,7 @@ export const projectsData = [
         description: "A simple and modern todo list application built with React and TypeScript. It allows users to add, edit, delete, and mark tasks as completed. The app uses local storage to persist tasks across sessions.",
         techs: ['HTML','Css','React','Typescript','ViteJS', 'Tailwind'],
         image: "https://raw.githubusercontent.com/asenchochev/todo-list/refs/heads/main/screenshots/todo.png",
-        url: 'https://www.hujwzat.com/',
+        url: 'https://todo-list-ruby-iota-58.vercel.app',
     },
     {
         id: 3,
