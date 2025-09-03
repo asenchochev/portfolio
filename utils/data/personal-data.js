@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Asen Chochev",
-  profile: 'https://scontent.fsof5-1.fna.fbcdn.net/v/t39.30808-6/473816297_3445107655622718_6643575427940517775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=hMWa_XAg0_0Q7kNvwHoBXDp&_nc_oc=AdkMZpkmf1UMSM0ZaDhAjNh0amo3OBD8vdoSk0zADaTltX8ZFMIo_vc4oi3NEyz3EFQ&_nc_zt=23&_nc_ht=scontent.fsof5-1.fna&_nc_gid=Odi07llL6cPupMbQekXvDA&oh=00_AfUuE312qwE41oNO1x58fpLjrqGpqPNMN-GvF2DFXmlD7Q&oe=68B7C25F',
+  profile: 'https://scontent.fsof5-1.fna.fbcdn.net/v/t39.30808-6/473816297_3445107655622718_6643575427940517775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=akMc5sTBlNQQ7kNvwHHXsDD&_nc_oc=Adk79VjFk_bWrBzapa782JE0te6qfnE9p97L34OKTcwhY279FrM71m3jjwWLAILJ-q4&_nc_zt=23&_nc_ht=scontent.fsof5-1.fna&_nc_gid=fVVSvLh4RGBln0Dcmc20oA&oh=00_AfY8bA2ZG00vIzaprgPIoNCR5881T8q_HgjwKAipOA1QoQ&oe=68BE59DF',
   designation: "Full Stack Developer",
   description: `
    💻 Full Stack Developer with strong expertise in MERN and MEAN stacks, building scalable web applications, REST API systems, authentication (AUTH), and database management. I work on:
